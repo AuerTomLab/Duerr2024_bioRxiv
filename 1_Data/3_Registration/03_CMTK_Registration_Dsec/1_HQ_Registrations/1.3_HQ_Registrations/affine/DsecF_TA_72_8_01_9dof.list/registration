@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "DsecF.nrrd"
+	floating_study "images/ISTA72_brain8_01.nrrd"
+	affine_xform {
+		xlate -5.6 -9.2 1.6 
+		rotate -2.981615964 2.465567047 -1.328390023 
+		scale 0.8569754803 1.007349086 1.071794917 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

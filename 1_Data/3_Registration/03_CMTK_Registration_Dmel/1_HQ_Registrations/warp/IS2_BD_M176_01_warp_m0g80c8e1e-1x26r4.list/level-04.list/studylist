@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/Volumes/2TB SSD/All Data - Benedikt/4_PN Project/3_Brain Registration/01_Reference_Brains/IS2.nrrd"
+}
+source {
+	studyname "images/BD-M176_01.nrrd"
+}

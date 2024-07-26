@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 741.7700000000
+time_total 901.8500000000
+walltime_level 77.0000000000
+walltime_total 94.0000000000
+thread_time_level 741.7700000000
+thread_time_total 901.8500000000
+number_of_threads 12
+number_of_cpus 12
+host "dhcp653-103.laptop-wlc.uni-heidelberg.de"
+system "Darwin"

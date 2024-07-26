@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 4153.4600000000
+time_total 5196.2900000000
+walltime_level 424.0000000000
+walltime_total 529.0000000000
+thread_time_level 4153.4600000000
+thread_time_total 5196.2900000000
+number_of_threads 12
+number_of_cpus 12
+host "Benedikts-MBP"
+system "Darwin"

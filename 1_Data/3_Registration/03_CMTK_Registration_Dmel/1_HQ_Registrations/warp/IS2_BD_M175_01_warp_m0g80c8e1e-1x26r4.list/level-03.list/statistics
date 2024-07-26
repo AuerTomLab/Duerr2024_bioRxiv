@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 106.2500000000
+time_total 141.9800000000
+walltime_level 15.0000000000
+walltime_total 20.0000000000
+thread_time_level 106.2500000000
+thread_time_total 141.9800000000
+number_of_threads 10
+number_of_cpus 12
+host "Benedikts-MacBook-Pro.local"
+system "Darwin"

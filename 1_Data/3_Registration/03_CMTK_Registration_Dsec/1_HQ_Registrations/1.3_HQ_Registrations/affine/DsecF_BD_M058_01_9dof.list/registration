@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "Reference Brains/DsecF.nrrd"
+	floating_study "images/BD-M058_01.nrrd"
+	affine_xform {
+		xlate 2 -23.2 4.5 
+		rotate -13.64147115 0.9248455018 2.656780045 
+		scale 0.9689077131 1.023177887 1.105148461 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

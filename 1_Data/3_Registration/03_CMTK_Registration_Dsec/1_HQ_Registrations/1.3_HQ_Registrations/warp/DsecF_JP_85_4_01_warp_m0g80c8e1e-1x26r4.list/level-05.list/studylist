@@ -1,0 +1,11 @@
+! TYPEDSTREAM 2.4
+
+studylist {
+	num_sources 2
+}
+source {
+	studyname "/Users/benediktdurr/Dropbox/Auer group/Manuscripts/Dsec tool manuscript/DsecToolManuscript_R_Analysis/1_Data/3_Registration/01_Reference_Brains/DsecF.nrrd"
+}
+source {
+	studyname "images/JP-85-4_01.nrrd"
+}

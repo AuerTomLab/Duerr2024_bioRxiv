@@ -1,0 +1,133 @@
+"id","name","gross_type","license","reference","images","technique","template","image_count"
+"Xu2020NeuronsV1point1----VFBlicense_CC_BY_4_0----doi_10_1101_2020_01_21_911859","JRC_FlyEM_Hemibrain neurons Version 1.1","Entity; Dataset; Individual; has_image","CC-BY_4.0","Xu et al., 2020","https://www.virtualflybrain.org/data/VFB/i/jrch/jxhh/VFB_00101567/thumbnailT.png","FIB-SEM","JRC2018U
+","   22593"
+"Xu2020Neurons----VFBlicense_CC_BY_4_0----doi_10_1101_2020_01_21_911859","JRC_FlyEM_Hemibrain neurons Version 1.0.1","Entity; Dataset; Individual; has_image","CC-BY_4.0","Xu et al., 2020","https://www.virtualflybrain.org/data/VFB/i/jrch/0428/VFB_00101567/thumbnailT.png","FIB-SEM","JRC2018U
+","   21242"
+"Zheng2020----VFBlicense_CC_BY_SA_4_0----FBrf0254218","EM FAFB Zheng et al 2020 (published 2022)","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Zheng et al., 2022, Curr. Biol. 32(15): 3334--3349.e6","https://www.virtualflybrain.org/data/VFB/i/0010/00wp/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","    1492"
+"Chiang2010----VFBlicense_FlyCircuit_License----FBrf0212704","FlyCircuit 1.0 - single neurons (Chiang2010)","Entity; Dataset; Individual; has_image; FlyCircuit","FlyCircuit License","Chiang et al., 2011, Curr. Biol. 21(1): 1--11","https://www.virtualflybrain.org/data/VFB/i/0001/3453/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","   16127"
+"Kohl2013----VFBlicense_CC_BY_SA_4_0----FBrf0223724","Third order olfactory neurons involved in pheromone response - backfills (Kohl2013)","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Kohl et al., 2013, Cell 155(7): 1610--1623","https://www.virtualflybrain.org/data/VFB/i/0003/0725/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     111"
+"Gen1MCFOJenett2012----VFBlicense_CC_BY_4_0----FBrf0219813","MCFO images of GMR-GAL4 lines from Jenett et al., 2012","Entity; Dataset; Individual; has_image","CC-BY_4.0","Jenett et al., 2012, Cell Rep. 2(4): 991--1001","https://www.virtualflybrain.org/data/VFB/i/0010/1y8l/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","   19866"
+"Dickson_VT----VFBlicense_CC_BY_NC_SA_4_0----doi_10_1101_198648","Dickson lab VT line collection - VDRC images","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Tirian & Dickson, 2017","https://www.virtualflybrain.org/data/VFB/i/0004/8097/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","   18016"
+"Gen1MCFOTirian2017----VFBlicense_CC_BY_4_0----FBrf0236875","MCFO images of VT-GAL4 lines from Tirian et al., 2017","Entity; Dataset; Individual; has_image","CC-BY_4.0","Tirian and Dickson, 2017, The VT GAL4, LexA, and split-GAL4 driver line collections for targeted expression in the Drosophila nervous system.","https://www.virtualflybrain.org/data/VFB/i/0010/1c35/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","   28460"
+"Aso2014----VFBlicense_CC_BY_4_0----FBrf0227179","MBONs and split-GAL4 lines that target them (Aso2014)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Aso et al., 2014, eLife 3: e04577","https://www.virtualflybrain.org/data/VFB/i/0010/12lw/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","    2449"
+"Jenett2012----VFBlicense_CC_BY_NC_SA_4_0----FBrf0219813","FlyLight - GMR GAL4 collection (Jenett2012)","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Jenett et al., 2012, Cell Rep. 2(4): 991--1001","https://www.virtualflybrain.org/data/VFB/i/0002/3436/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","    3469"
+"Dickson2017----VFBlicense_CC_BY_NC_SA_4_0----doi_10_1101_198648","Dickson lab VT lines - FlyLight/Janelia images (2017)","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Tirian & Dickson, 2017","https://www.virtualflybrain.org/data/VFB/i/0006/6772/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","    5387"
+"FlyLightGen1Set2019----VFBlicense_CC_BY_NC_SA_4_0----FBrf0219813","FlyLight - Gen1 GAL4/LexA collection (exported 2019)","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Jenett et al., 2012, Cell Rep. 2(4): 991--1001","https://www.virtualflybrain.org/data/VFB/i/0010/0wnr/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","   15887"
+"Lee_Lineage2020----VFBlicense_CC_BY_4_0----doi_10_7554_eLife_53518","central brain neurons by lineage, Lee2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Lee et al., 2020","https://www.virtualflybrain.org/data/VFB/i/0010/2355/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     462"
+"JRC2018----VFBlicense_CC_BY_NC_SA_4_0----doi_10_1101_376384","JRC 2018 templates & ROIs","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Bogovic et al., 2019, biorxiv","https://www.virtualflybrain.org/data/VFB/i/0010/2174/VFB_00101567/thumbnailT.png","computer graphic","JRC2018U
+","      48"
+"BatesSchlegel2020----VFBlicense_CC_BY_SA_4_0----doi_10_1016_j_cub_2020_06_042","EM FAFB Bates and Schlegel et al 2020","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Bates and Schlegel et al., 2020","https://www.virtualflybrain.org/data/VFB/i/0010/12ai/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     454"
+"Marin2020----VFBlicense_CC_BY_SA_4_0----doi_10_1016_j_cub_2020_06_028","EM FAFB Marin et al 2020","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Marin et al., 2020","https://www.virtualflybrain.org/data/VFB/i/0010/11vv/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     300"
+"SplitWang2020a----VFBlicense_CC_BY_4_0----FBrf0245074","Split-GAL4 lines from Wang et al., 2020a","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wang et al., 2020, Nature 579(7797): 101--105","https://www.virtualflybrain.org/data/VFB/i/0010/14uz/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      62"
+"Kim2020----VFBlicense_CC_BY_SA_4_0----doi_10_1002_cne_24877","EM FAFB Kim et al 2020","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Kim et al., 2020","https://www.virtualflybrain.org/data/VFB/i/0010/000h/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      95"
+"Otto2020----VFBlicense_CC_BY_4_0----FBrf0246510","EM FAFB Otto et al 2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Otto et al., 2020, Curr. Biol. 30(16): 3200--3211.e8","https://www.virtualflybrain.org/data/VFB/i/0010/142c/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     768"
+"Wu2016----VFBlicense_CC_BY_4_0----FBrf0234700","split-GAL4 lines for LC VPNs (Wu2016)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wu et al., 2016, eLife 5: e21022","https://www.virtualflybrain.org/data/VFB/i/0006/3845/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     332"
+"Xie2018----VFBlicense_CC_BY_SA_4_0----FBrf0238545","Split GAL4 lines for dopaminergic neurons, Xie2018","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Xie et al., 2018, Cell Rep. 23(2): 652--665","https://www.virtualflybrain.org/data/VFB/i/0007/0006/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      79"
+"HampelEichler2020----VFBlicense_CC_BY_4_0----FBrf0247223","EM FAFB Hampel and Eichler et al 2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Hampel et al., 2020, eLife 9: e59976","https://www.virtualflybrain.org/data/VFB/i/0010/13wh/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     147"
+"Dolan2019----VFBlicense_CC_BY_4_0----FBrf0242477","GAL4 Split expression patterns from Dolan et al. 2019","Entity; Dataset; Individual; has_image","CC-BY_4.0","Dolan et al., 2019, eLife 8: e43079","https://www.virtualflybrain.org/data/VFB/i/0010/13fq/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     277"
+"Yu2013----VFBlicense_CC_BY_NC_SA_4_0----FBrf0221412","Lee lab adult brain lineage clone image set","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Yu et al., 2013, Curr. Biol. 23(8): 633--643","https://www.virtualflybrain.org/data/VFB/i/0002/0055/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      97"
+"Turner_Evans2020----VFBlicense_CC_BY_SA_4_0----doi_10_1016_j_neuron_2020_08_006","EM FAFB Turner-Evans et al 2020","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Turner-Evans et al., 2020","https://www.virtualflybrain.org/data/VFB/i/0010/12b6/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      49"
+"FafbDolan2019----VFBlicense_CC_BY_SA_4_0----FBrf0242477","EM FAFB Dolan et al. 2019","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Dolan et al., 2019, eLife 8: e43079","https://www.virtualflybrain.org/data/VFB/i/0010/1375/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     105"
+"Wolff2018----VFBlicense_CC_BY_4_0----FBrf0240744","Splits targetting CX neurons, Wolff2018","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wolff and Rubin, 2018, J. Comp. Neurol. 526(16): 2585--2611","https://www.virtualflybrain.org/data/VFB/i/0010/13m7/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     188"
+"Zheng2018----VFBlicense_CC_BY_SA_4_0----FBrf0239557","EM FAFB Zheng et al 2018","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Zheng et al., 2018, Cell 174(3): 730--743.e22","https://www.virtualflybrain.org/data/VFB/i/0010/1240/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     145"
+"Cachero2010----VFBlicense_CC_BY_SA_4_0----FBrf0211926","Adult Brain fru clones (Cachero2010)","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Cachero et al., 2010, Curr. Biol. 20(18): 1589--1601","https://www.virtualflybrain.org/data/VFB/i/0001/7892/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     119"
+"Ito2013----VFBlicense_CC_BY_NC_SA_4_0----FBrf0221438","Ito lab adult brain lineage clone image set","Entity; Dataset; Individual; has_image","CC-BY-NC-SA_4.0","Ito et al., 2013, Curr. Biol. 23(8): 644--655","https://www.virtualflybrain.org/data/VFB/i/0002/0206/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      96"
+"Kind2021----VFBlicense_CC_BY_4_0----FBrf0252485","EM FAFB Kind et al. 2021","Entity; Dataset; Individual; has_image","CC-BY_4.0","Kind et al., 2021, eLife 10: e71858","https://www.virtualflybrain.org/data/VFB/i/0010/29em/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     286"
+"Strother2017----VFBlicense_CC_BY_4_0----FBrf0235230","Splits targetting the visual motion pathway, Strother2017","Entity; Dataset; Individual; has_image","CC-BY_4.0","Strother et al., 2017, Neuron 94(1): 168--182.e10","https://www.virtualflybrain.org/data/VFB/i/0010/15hh/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      18"
+"TaiszGalili2022----VFBlicense_CC_BY_SA_4_0----doi_10_1101_2022_05_13_491877v3","EM FAFB Taisz and Galili et al., 2022","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Taisz & Galili et al., 2022","https://www.virtualflybrain.org/data/VFB/i/0010/2dvm/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      55"
+"Coates2020----VFBlicense_CC_BY_SA_4_0----doi_10_1523_JNEUROSCI_0552_20_2020","EM FAFB Coates et al 2020","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Coates et al., 2020","https://www.virtualflybrain.org/data/VFB/i/0010/11l1/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     191"
+"SplitDavis2020----VFBlicense_CC_BY_4_0----FBrf0244935","Split-GAL4 lines from Davis et al., 2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Davis et al., 2020, eLife 9: e50901","https://www.virtualflybrain.org/data/VFB/i/0010/14r3/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     130"
+"Matsuo2016----VFBlicense_CC_BY_SA_4_0----FBrf0230862","AMMC local and projection neurons (Matsuo2016)","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Matsuo et al., 2016, J. Comp. Neurol. 524(6): 1099--1164","https://www.virtualflybrain.org/data/VFB/i/0003/0780/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      41"
+"Dolan2018----VFBlicense_CC_BY_SA_4_0----FBrf0240600","EM FAFB Dolan and Belliart-Guerin et al. 2018","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Dolan et al., 2018, Neuron 100(3): 651--668.e8","https://www.virtualflybrain.org/data/VFB/i/0010/1284/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      10"
+"SplitTurner_Evans2020----VFBlicense_CC_BY_4_0----FBrf0246945","Split-GAL4 lines from Turner-Evans et al., 2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Turner-Evans et al., 2020, Neuron 108(1): 145--163.e10","https://www.virtualflybrain.org/data/VFB/i/0010/15hy/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","       8"
+"Namiki2018----VFBlicense_CC_BY_4_0----FBrf0239335","split-GAL4 lines for descending neurons (Namiki2018)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Namiki et al., 2018, eLife 7: e34272","https://www.virtualflybrain.org/data/VFB/i/0010/12dk/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     390"
+"Engert2022----VFBlicense_CC_BY_4_0----FBrf0253662","EM FAFB Engert et al. 2022","Entity; Dataset; Individual; has_image","CC-BY_4.0","Engert et al., 2022, eLife 11: e78110","https://www.virtualflybrain.org/data/VFB/i/0010/29jx/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","     144"
+"Gen1MCFODionne2018----VFBlicense_CC_BY_4_0----FBrf0236874","MCFO images of GMR-GAL4 lines from Dionne et al., 2018","Entity; Dataset; Individual; has_image","CC-BY_4.0","Dionne et al., 2018, Genetics 209(1): 31--35","https://www.virtualflybrain.org/data/VFB/i/0010/27hf/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     155"
+"FlyLight2019Wu2016----VFBlicense_CC_BY_4_0----FBrf0234700","split-GAL4 lines for LC VPNs (Wu2016)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wu et al., 2016, eLife 5: e21022","https://www.virtualflybrain.org/data/VFB/i/0010/3280/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      87"
+"Robie2017----VFBlicense_CC_BY_4_0----FBrf0236042","split-GAL4 lines for  EB neurons (Robie2017)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Robie et al., 2017, Cell 170(2): 393--406.e28","https://www.virtualflybrain.org/data/VFB/i/0006/9614/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      80"
+"Morimoto2020----VFBlicense_CC_BY_4_0----FBrf0247630","EM FAFB Morimoto et al 2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Morimoto et al., 2020, eLife 9: e57685","https://www.virtualflybrain.org/data/VFB/i/0010/13v1/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      76"
+"Hampel2015----VFBlicense_CC_BY_4_0----FBrf0229838","Grooming neurons and drivers (Hampel 2015)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Hampel et al., 2015, eLife 4: e08758","https://www.virtualflybrain.org/data/VFB/i/0009/0002/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","       6"
+"Shiu2022----VFBlicense_CC_BY_4_0----FBrf0254006","EM FAFB Shiu et al. 2022","Entity; Dataset; Individual; has_image","CC-BY_4.0","Shiu et al., 2022, eLife 11: e79887","https://www.virtualflybrain.org/data/VFB/i/0010/29mc/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      25"
+"Wang2020c----VFBlicense_CC_BY_SA_4_0----FBrf0247919","EM FAFB Wang et al 2020c","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Wang et al., 2021, Nature 589(7843): 577--581","https://www.virtualflybrain.org/data/VFB/i/0010/14nz/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      17"
+"FlyLight2019LateralHorn2019----VFBlicense_CC_BY_4_0----FBrf0242477","FlyLight split-GAL4 lines for Lateral Horn","Entity; Dataset; Individual; has_image","CC-BY_4.0","Dolan et al., 2019, eLife 8: e43079","https://www.virtualflybrain.org/data/VFB/i/0010/2897/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     364"
+"Klapoetke2017----VFBlicense_CC_BY_4_0----FBrf0237184","Split-GAL4 lines from Klapoetke et al. 2017","Entity; Dataset; Individual; has_image","CC-BY_4.0","Klapoetke et al., 2017, Nature 551(7679): 237--241","https://www.virtualflybrain.org/data/VFB/i/0010/14pi/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      17"
+"Baltruschat2021----VFBlicense_CC_BY_SA_4_0----FBrf0248487","EM FAFB Baltruschat et al 2021","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Baltruschat et al., 2021, Cell Rep. 34(11): 108871","https://www.virtualflybrain.org/data/VFB/i/0010/14wk/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","       8"
+"FlyLight2019Wolff2018----VFBlicense_CC_BY_4_0----FBrf0240744","Splits targetting CX neurons, Wolff2018","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wolff and Rubin, 2018, J. Comp. Neurol. 526(16): 2585--2611","https://www.virtualflybrain.org/data/VFB/i/0010/4196/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     100"
+"Gen1MCFOPfeiffer2010----VFBlicense_CC_BY_4_0----FBrf0212052","MCFO images of GMR-GAL4 lines from Pfeiffer et al., 2010","Entity; Dataset; Individual; has_image","CC-BY_4.0","Pfeiffer et al., 2010, Genetics 186(2): 735--755","https://www.virtualflybrain.org/data/VFB/i/0010/1rhz/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      10"
+"Nojima2021----VFBlicense_CC_BY_SA_4_0----FBrf0248430","Split-GAL4 lines from Nojima et al., 2021","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Nojima et al., 2021, Curr. Biol. 31(6): 1175--1191.e6","https://www.virtualflybrain.org/data/VFB/i/0010/14qc/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      15"
+"Wang2020a----VFBlicense_CC_BY_4_0----FBrf0245074","EM FAFB Wang et al 2020a","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wang et al., 2020, Nature 579(7797): 101--105","https://www.virtualflybrain.org/data/VFB/i/0010/13vn/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","      12"
+"Sayin2019----VFBlicense_CC_BY_SA_4_0----FBrf0243986","EM FAFB Sayin et al 2019","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Sayin et al., 2019, Neuron 104(3): 544--558.e6","https://www.virtualflybrain.org/data/VFB/i/0010/01dr/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","       2"
+"SplitSchretter2020----VFBlicense_CC_BY_4_0----FBrf0247707","Split-GAL4 lines from Schretter et al., 2020","Entity; Dataset; Individual; has_image","CC-BY_4.0","Schretter et al., 2020, eLife 9: e58942","https://www.virtualflybrain.org/data/VFB/i/0010/15hq/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      26"
+"Hampel2017----VFBlicense_CC_BY_SA_4_0----FBrf0236775","LexA driver targetting mechanosensory eye bristles (Hampel2017)","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Hampel et al., 2017, eLife 6: e28804","https://www.virtualflybrain.org/data/VFB/i/0006/3688/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","       1"
+"Felsenberg2018----VFBlicense_CC_BY_SA_4_0----FBrf0240371","EM FAFB Felsenberg et al. 2018","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Felsenberg et al., 2018, Cell 175(3): 709--722.e15","https://www.virtualflybrain.org/data/VFB/i/0010/1382/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","       3"
+"McKellar2020----VFBlicense_CC_BY_SA_4_0----FBrf0246028","Split-GAL4 lines from McKellar et al., 2020","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","McKellar et al., 2020, eLife 9: e54978","https://www.virtualflybrain.org/data/VFB/i/0010/14q8/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      40"
+"FlyLight2019Strother2017----VFBlicense_CC_BY_4_0----FBrf0235230","Splits targetting the visual motion pathway, Strother2017","Entity; Dataset; Individual; has_image","CC-BY_4.0","Strother et al., 2017, Neuron 94(1): 168--182.e10","https://www.virtualflybrain.org/data/VFB/i/0010/3941/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      63"
+"FlyLight2019Namiki2018----VFBlicense_CC_BY_4_0----FBrf0239335","split-GAL4 lines for descending neurons (Namiki2018)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Namiki et al., 2018, eLife 7: e34272","https://www.virtualflybrain.org/data/VFB/i/0010/3161/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","     247"
+"SplitWang2020b----VFBlicense_CC_BY_4_0----FBrf0246914","Split-GAL4 lines from Wang et al., 2020b","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wang et al., 2020, Curr. Biol. 30(19): 3749--3760.e3","https://www.virtualflybrain.org/data/VFB/i/0010/15h0/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","       4"
+"AsoRubin2016----VFBlicense_CC_BY_4_0----FBrf0233230","split-GAL4 lines for dopaminergic neurons (AsoRubin2016)","Entity; Dataset; Individual; has_image","CC-BY_4.0","Aso and Rubin, 2016, eLife 5: e16135","https://www.virtualflybrain.org/data/VFB/i/0006/9630/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","      24"
+"SplitGiraldo2018----VFBlicense_CC_BY_4_0----FBrf0240038","Split-GAL4 lines from Giraldo et al., 2018","Entity; Dataset; Individual; has_image","CC-BY_4.0","Giraldo et al., 2018, Curr. Biol. 28(17): 2845--2852.e4","https://www.virtualflybrain.org/data/VFB/i/0010/14pn/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","       2"
+"Wang2020b----VFBlicense_CC_BY_4_0----FBrf0246914","EM FAFB Wang et al 2020b","Entity; Dataset; Individual; has_image","CC-BY_4.0","Wang et al., 2020, Curr. Biol. 30(19): 3749--3760.e3","https://www.virtualflybrain.org/data/VFB/i/0010/13zz/VFB_00101567/thumbnailT.png","TEM","JRC2018U
+","       1"
+"Lillvis2018----VFBlicense_CC_BY_SA_4_0----doi_10_1101_238147","Neurons involved in courtship and song (Lillvis2018)","Entity; Dataset; Individual; has_image","CC-BY-SA_4.0","Ding et al., 2017","https://www.virtualflybrain.org/data/VFB/i/0006/3689/VFB_00101567/thumbnailT.png","Confocal","JRC2018U
+","       2"

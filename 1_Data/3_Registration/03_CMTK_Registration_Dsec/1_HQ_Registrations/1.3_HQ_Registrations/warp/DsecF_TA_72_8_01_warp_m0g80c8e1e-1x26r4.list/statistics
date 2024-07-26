@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 1847.7900000000
+time_total 2485.7900000000
+walltime_level 596.0000000000
+walltime_total 801.0000000000
+thread_time_level 1847.7900000000
+thread_time_total 2485.7900000000
+number_of_threads 4
+number_of_cpus 8
+host "pulse-424.unil.ch"
+system "Darwin"

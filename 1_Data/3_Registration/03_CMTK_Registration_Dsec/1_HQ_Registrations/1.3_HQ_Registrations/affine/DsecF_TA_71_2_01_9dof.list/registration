@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "/Volumes/2TB SSD/All Data - Benedikt/4_PN Project/3_Brain Registration/1_Reference_Brains/DsecF.nrrd"
+	floating_study "images/TA-71_2_01.nrrd"
+	affine_xform {
+		xlate -0.4 4.8 3.9 
+		rotate -13.2643135 2.768204556 -3.801943858 
+		scale 0.8880677672 0.9078537679 1.034484173 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

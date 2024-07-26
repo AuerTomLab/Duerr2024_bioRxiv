@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "/Users/auerlab/Desktop/DsecF.nrrd"
+	floating_study "images/BD-M150_01.nrrd"
+	affine_xform {
+		xlate -3.6 4.4 -3.7 
+		rotate 14.37954798 1.812056859 0.7787113926 
+		scale 0.9383807405 0.9542095411 1.119281319 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

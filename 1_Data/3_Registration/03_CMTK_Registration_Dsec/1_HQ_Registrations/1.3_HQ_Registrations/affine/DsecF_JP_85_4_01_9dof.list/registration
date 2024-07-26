@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "/Users/benediktdurr/Dropbox/Auer group/Manuscripts/Dsec tool manuscript/DsecToolManuscript_R_Analysis/1_Data/3_Registration/01_Reference_Brains/DsecF.nrrd"
+	floating_study "images/JP-85-4_01.nrrd"
+	affine_xform {
+		xlate 0.8 -5.2 9.1 
+		rotate -2.11410394 1.771276274 -1.190970365 
+		scale 1.032222916 0.9604279985 1.193337493 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

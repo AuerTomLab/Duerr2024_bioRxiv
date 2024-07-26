@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "/Users/bdurr1/Desktop/PN Project/3_Brain Registration/1_CMTK_Registration/Reference Brains/DsecF.nrrd"
+	floating_study "images/JP-85-9_01.nrrd"
+	affine_xform {
+		xlate 2.8 13.6 -1.6 
+		rotate -6.708635918 -0.8027427594 -1.603229338 
+		scale 1.028265715 1.070098974 1.185423093 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

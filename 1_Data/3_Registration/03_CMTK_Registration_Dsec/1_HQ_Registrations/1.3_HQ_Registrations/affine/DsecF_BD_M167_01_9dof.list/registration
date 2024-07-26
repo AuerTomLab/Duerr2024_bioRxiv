@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "/Volumes/2TB SSD/All Data - Benedikt/4_PN Project/3_Brain Registration/1_CMTK_Registration/DsecF.nrrd"
+	floating_study "images/BD-M167_01.nrrd"
+	affine_xform {
+		xlate 1.6 -14 -2.1 
+		rotate -8.113588093 1.542724497 1.557422785 
+		scale 1.0079144 1.018090058 1.166767721 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

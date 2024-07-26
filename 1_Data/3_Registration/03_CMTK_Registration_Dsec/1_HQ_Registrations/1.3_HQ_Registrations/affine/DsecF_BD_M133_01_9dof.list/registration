@@ -1,0 +1,13 @@
+! TYPEDSTREAM 2.4
+
+registration {
+	reference_study "DsecF.nrrd"
+	floating_study "images/BD-M133_01.nrrd"
+	affine_xform {
+		xlate 1.6 -4.8 0.4 
+		rotate -0.2335564068 0.3503346102 3.160652123 
+		scale 0.9005046819 0.891459653 1.050878288 
+		shear 0 0 0 
+		center 176.8927457 176.8927457 85 
+	}
+}

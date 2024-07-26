@@ -1,0 +1,12 @@
+! TYPEDSTREAM 2.4
+
+time_level 5750.8400000000
+time_total 6220.3400000000
+walltime_level 411.0000000000
+walltime_total 450.0000000000
+thread_time_level 5750.8400000000
+thread_time_total 6220.3400000000
+number_of_threads 16
+number_of_cpus 16
+host "gen-123-206.unil.ch"
+system "Darwin"
