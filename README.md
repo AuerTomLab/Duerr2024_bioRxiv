@@ -14,8 +14,7 @@ Benedikt R. Dürr<sup>1,2</sup>, Enrico Bertolini<sup>1,3#</sup> , Suguru Takagi
     \* Corresponding author: Thomas O. Auer E-mail: thomas.auer@unifr.ch
 
 ## Dataset
-- You can find .swc files of the 133 Antennal Lobe Projection Neurons used in this study in the "5_Duerr2024_Dataset_Dsec_ALPN_DsecI_SWCs" folder
-- The files are registered to the DsecI reference space
+- You can find .swc files of the 133 Antennal Lobe Projection Neurons used in this study in the "5_Duerr2024_Dataset_Dsec_ALPN_DsecI_SWCs" folder. These files are registered to the DsecI reference space.
 - In the "1_Data" folder you can find more detailed files which were used in this study
 
 
