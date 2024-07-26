@@ -3,7 +3,7 @@
 <img src="General/Logo_Github_Dsec_Dataset_Overview_ALPNs_n133_anterior.png" align="right" height="200" /> 
 
 ## Authors
-Benedikt R. Dürr^1,2^, Enrico Bertolini ^1,3#^ , Suguru Takagi^1#^, Justine Pascual^1,3#^, Liliane Abuin^1^, Giovanna Lucarelli^1^, Richard Benton^1^, and Thomas O. Auer^1,3^*
+Benedikt R. Dürr<sup>1,2</sup>, Enrico Bertolini<sup>1,3#</sup> , Suguru Takagi<sup>1#</sup>, Justine Pascual<sup>1,3#</sup>, Liliane Abuin<sup>1</sup>, Giovanna Lucarelli<sup>1</sup>, Richard Benton<sup>1</sup>, and Thomas O. Auer<sup>1,3</sup>*
 
 1. Center for Integrative Genomics Faculty of Biology and Medicine, University of Lausanne CH-1015 Lausanne Switzerland
 2. Current address: Centre for Organismal Studies, Heidelberg University, DE-69120 Heidelberg Germany
