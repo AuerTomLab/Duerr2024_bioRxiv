@@ -1,6 +1,6 @@
 <img src="General/Logo_Github_Dsec_Dataset_Overview_ALPNs_n133_anterior.png" align="right" height="200" /> 
 
-# Dürr et al. 2024
+# Dürr et al. 2024 - bioRxiv
 
 ## Authors
 Benedikt R. Dürr<sup>1,2</sup>, Enrico Bertolini<sup>1,3#</sup> , Suguru Takagi<sup>1#</sup>, Justine Pascual<sup>1,3#</sup>, Liliane Abuin<sup>1</sup>, Giovanna Lucarelli<sup>1</sup>, Richard Benton<sup>1</sup>, and Thomas O. Auer<sup>1,3</sup>*
